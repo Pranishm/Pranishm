@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 Building modern web and mobile applications with beautiful UI, scalable backend systems, and creative user experiences.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Pranishm&label=Profile%20Views&color=ff4fd8&style=for-the-badge" />
+<img src="https://github.com/Pranishm/Pranishm/blob/main/banner.svg" />
 
 <br><br>
 
