@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1">
-  <img src="./banner.svg" alt="Pranish — Full Stack Developer" width="100%"/>
+  <img src="banner.svg" alt="Pranish — Full Stack Developer" width="100%"/>
 </picture>
 
 </div>
