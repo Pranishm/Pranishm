@@ -1,8 +1,8 @@
-name: Generate GitHub Snake
+name: Generate Contribution Snake 🐍
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC
+    # Every day at 00:00 UTC
     - cron: "0 0 * * *"
 
   workflow_dispatch:
@@ -17,22 +17,29 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Pranishm
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#ff4fd8&color_dots=#2a153d,#47206a,#7c3aed,#c026d3,#ff4fd8
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff4fd8&color_dots=#090612,#23113d,#4b1f73,#7c3aed,#ff4fd8
-            dist/github-contribution-grid-snake-light.svg?palette=github-light&color_snake=#d946ef&color_dots=#fdf2ff,#f5d0fe,#f0abfc,#e879f9,#d946ef
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff4fd8&color_dots=%23080615,%23161333,%23371a5f,%236b2bd9,%23ff4fd8
+
+            dist/github-contribution-grid-snake-light.svg?palette=github-light&color_snake=%23d946ef&color_dots=%23ffffff,%23fde7ff,%23f6b7ff,%23ea7cff,%23d946ef
+
+            dist/github-snake-pink.svg?color_snake=%23ff7eb6&color_dots=%232d1b4e,%235b2a86,%238b5cf6,%23c084fc,%23ff7eb6
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
