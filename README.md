@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
-  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
-  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1">
+  <img src="./assets/banner.svg?v=1" alt="Pranish — Full Stack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -13,29 +13,31 @@
 
 <table align="center" border="0">
 <tr>
+
 <td width="38%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
+<img src="./assets/lanyard.svg?v=1" alt="Pranish ID Card" width="330"/>
 
 </td>
+
 <td width="62%" valign="middle">
 
-### 🌸 My Anime Creations
+## 🚀 Featured Projects
 
-| 🎌 Project | 💻 Tech | ⭐ |
+| 🚀 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
-| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
-| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
-| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
-| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
+| 🤖 Nova AI Assistant | `Flutter` `Dart` `AI` | ⭐ |
+| 🌐 Developer Portfolio | `React` `TypeScript` | ⭐ |
+| ☁️ OpenNebula Private Cloud | `Ubuntu` `OpenNebula` | ⭐ |
+| 🎮 Minecraft Dashboard | `React` `Node.js` | ⭐ |
+| 📱 Android Applications | `Flutter` `Firebase` | ⭐ |
 
 <br/>
 
-> 💗 *"I don't watch anime, I code anime."*
+> 💙 *"Building modern apps, one commit at a time."*
 
 </td>
+
 </tr>
 </table>
 
@@ -43,45 +45,85 @@
 
 <div align="center">
 
-### 📊 GitHub Stats & Graphs
+## 💻 Tech Stack
 
-<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,flutter,dart,androidstudio,kotlin,firebase,mongodb,mysql,git,github,docker,linux,vscode" />
 
 <br/><br/>
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+## 📊 GitHub Statistics
+
+<img src="./assets/stats.svg?v=1" alt="GitHub Stats" width="49%"/>
+
+<img src="./assets/langs.svg?v=1" alt="Top Languages" width="49%"/>
 
 <br/><br/>
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Pranishm&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-### 🐍 Watch the snake eat my contributions
+## 📈 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
-
-<br/><br/>
-
-### 📫 Let's Connect
-
-<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Pranishm&theme=tokyo-night&hide_border=true"
+width="95%"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+## 🏆 Achievements
+
+<img src="./assets/trophies.svg?v=1" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
-*⭐️ Always learning, always building.* 💗
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Pranishm/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Pranishm/output/github-contribution-grid-snake-light.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/Pranishm/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake">
+</picture>
+
+<br/><br/>
+
+## 📫 Connect With Me
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pranishm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/your-instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/your-x">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=Pranishm&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed"/>
+
+<br/><br/>
+
+### 💜 Keep Learning • Keep Building • Keep Innovating 🚀
 
 </div>
