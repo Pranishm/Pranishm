@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1">
-  <img src="banner.svg" alt="Pranish — Full Stack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img src="./banner.svg?v=7" alt="Pranish — Full Stack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -13,31 +13,29 @@
 
 <table align="center" border="0">
 <tr>
-
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/lanyard.svg?v=1" alt="Pranish ID Card" width="330"/>
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./lanyard.svg?v=2" alt="Pranish ID badge" width="330"/>
 
 </td>
-
 <td width="62%" valign="middle">
 
-## 🚀 Featured Projects
+### 🌸 My Projects
 
-| 🚀 Project | 💻 Tech | ⭐ |
+| 🎌 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| 🤖 Nova AI Assistant | `Flutter` `Dart` `AI` | ⭐ |
-| 🌐 Developer Portfolio | `React` `TypeScript` | ⭐ |
-| ☁️ OpenNebula Private Cloud | `Ubuntu` `OpenNebula` | ⭐ |
-| 🎮 Minecraft Dashboard | `React` `Node.js` | ⭐ |
-| 📱 Android Applications | `Flutter` `Firebase` | ⭐ |
+| [🤖 Nova AI Assistant](https://github.com/Pranishm/Nova) | `Flutter` `Dart` `AI` | ⭐ |
+| [🌐 Developer Portfolio](https://github.com/Pranishm) | `React` `TypeScript` | ⭐ |
+| [☁️ OpenNebula Private Cloud](https://github.com/Pranishm) | `Ubuntu` `OpenNebula` | ⭐ |
+| [🎮 Minecraft Dashboard](https://github.com/Pranishm) | `React` `Node.js` | ⭐ |
+| [📱 Android Apps](https://github.com/Pranishm) | `Flutter` `Android Studio` | ⭐ |
 
 <br/>
 
-> 💙 *"Building modern apps, one commit at a time."*
+> 💗 *"I don't watch anime, I code anime."*
 
 </td>
-
 </tr>
 </table>
 
@@ -45,85 +43,55 @@
 
 <div align="center">
 
-## 💻 Tech Stack
+### 📊 GitHub Stats & Graphs
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,flutter,dart,androidstudio,kotlin,firebase,mongodb,mysql,git,github,docker,linux,vscode" />
-
-<br/><br/>
-
-## 📊 GitHub Statistics
-
-<img src="./assets/stats.svg?v=1" alt="GitHub Stats" width="49%"/>
-
-<img src="./assets/langs.svg?v=1" alt="Top Languages" width="49%"/>
+<img src="./stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./langs.svg?v=2" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Pranishm&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Pranishm&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
 
 <br/><br/>
 
-## 📈 Contribution Activity
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Pranishm&theme=tokyo-night&hide_border=true"
-width="95%"/>
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranishm&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
-## 🏆 Achievements
-
-<img src="./assets/trophies.svg?v=1" alt="Trophies" width="95%"/>
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./trophies.svg?v=2" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
-## 🐍 Contribution Snake
+### 🐍 Watch the snake eat my contributions
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Pranishm/output/github-contribution-grid-snake-dark.svg">
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Pranishm/output/github-contribution-grid-snake-light.svg">
-
   <img
     src="https://raw.githubusercontent.com/Pranishm/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake">
+    alt="Contribution snake"/>
 </picture>
 
 <br/><br/>
 
-## 📫 Connect With Me
+### 📫 Let's Connect
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Pranishm">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/your-instagram">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/your-x">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Pranishm"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br/><br/>
 
-<img
-src="https://komarev.com/ghpvc/?username=Pranishm&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed"/>
+<img src="https://komarev.com/ghpvc/?username=Pranishm&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
-### 💜 Keep Learning • Keep Building • Keep Innovating 🚀
+*⭐️ Always learning, always building.* 💗
 
 </div>
