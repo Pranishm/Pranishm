@@ -1,175 +1,87 @@
 <div align="center">
 
+<!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1">
-  <img src="./assets/banner.svg?v=1" width="100%" alt="Banner">
+  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
+  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
 </picture>
-
-<br><br>
-
-<img src="./assets/lanyard.svg?v=1" width="220" alt="Lanyard"/>
-
-<br><br>
-
-# 👋 Hi, I'm Pranish
-
-### 🚀 Full Stack Developer • Mobile App Developer • Flutter Developer • AI Enthusiast
-
-<p>
-Building modern web and mobile applications with beautiful UI, scalable backend systems, and creative user experiences.
-</p>
-
-<img src="https://github.com/Pranishm/Pranishm/blob/main/banner.svg" />
-
-<br><br>
-
-<a href="https://github.com/Pranishm">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="mailto:pranish6139@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://instagram.com">
-<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-</a>
 
 </div>
 
----
+<br/>
 
-# ⚡ About Me
-
-- 💻 Full Stack Developer
-- 📱 Flutter & Android Developer
-- 🌐 React & Node.js Enthusiast
-- 🚀 Passionate about building modern UI/UX
-- 🤖 Interested in AI & Automation
-- 🔥 Always learning new technologies
-
----
-
-# 🛠 Tech Stack
-
-<table align="center">
+<table align="center" border="0">
 <tr>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=html"><br>HTML5</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=css"><br>CSS3</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=js"><br>JavaScript</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=ts"><br>TypeScript</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=react"><br>React</td>
-</tr>
+<td width="38%" align="center" valign="middle">
 
-<tr>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=nodejs"><br>Node.js</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=express"><br>Express</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=mongodb"><br>MongoDB</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=firebase"><br>Firebase</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=mysql"><br>SQL</td>
-</tr>
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
 
-<tr>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=flutter"><br>Flutter</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=dart"><br>Dart</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=kotlin"><br>Kotlin</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=androidstudio"><br>Android Studio</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=git"><br>Git</td>
-</tr>
+</td>
+<td width="62%" valign="middle">
 
-<tr>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=github"><br>GitHub</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=vscode"><br>VS Code</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=docker"><br>Docker</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=linux"><br>Linux</td>
-<td align="center"><img width="45" src="https://skillicons.dev/icons?i=figma"><br>Figma</td>
+### 🌸 My Anime Creations
+
+| 🎌 Project | 💻 Tech | ⭐ |
+|:---|:---:|:---:|
+| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
+| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
+| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
+| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
+| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
+
+<br/>
+
+> 💗 *"I don't watch anime, I code anime."*
+
+</td>
 </tr>
 </table>
 
----
-
-# 📊 GitHub Dashboard
+<br/>
 
 <div align="center">
 
-<img width="49%" src="./assets/stats.svg?v=1">
+### 📊 GitHub Stats & Graphs
 
-<img width="49%" src="./assets/langs.svg?v=1">
+<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
 
-<br><br>
+<br/><br/>
 
-<img width="100%" src="./assets/trophies.svg?v=1">
+<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
 
-</div>
+<br/><br/>
 
----
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
 
-# 🚀 Featured Projects
+<br/><br/>
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 💬 AI Assistant | AI-powered assistant with voice support | Flutter, AI |
-| 🛒 E-Commerce | Full Stack shopping platform | React, Node.js |
-| 🌐 Portfolio | Personal responsive portfolio | React |
-| 📱 Android Apps | Modern Android applications | Flutter |
-| 🎮 Minecraft Dashboard | Server management dashboard | React |
-| ☁ Cloud Lab | OpenNebula private cloud | Linux |
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
----
+<br/><br/>
 
-# 📈 Contribution Activity
+### 🐍 Watch the snake eat my contributions
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranishm&theme=tokyo-night&hide_border=true">
+<br/><br/>
 
-</div>
+### 📫 Let's Connect
 
----
+<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-# 🐍 Contribution Snake
+<br/><br/>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Pranishm/output/main/github-contribution-grid-snake.svg">
+<br/><br/>
 
-</div>
-
----
-
-# 🌎 Connect With Me
-
-<div align="center">
-
-<a href="mailto:pranish6139@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Pranishm">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/pranish_m_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ "Code is my art. Logic is my superpower."
-
-Made with ❤️ using HTML, CSS, JavaScript, React, Flutter & Coffee ☕
+*⭐️ Always learning, always building.* 💗
 
 </div>
